@@ -2,7 +2,7 @@
 
 A template for a home page for students at the Institute for Informatics at the University of Oslo.
 
-![homepage_screenshot](https://github.com/applitude/ifi-homepage-template/img/screenshots/screenshot1.jpg)
+![homepage_screenshot](https://github.com/applitude/ifi-homepage-template/blob/master/img/screenshots/screenshot1.png)
 
 ### Run a development server on your local machine
 ```bash
